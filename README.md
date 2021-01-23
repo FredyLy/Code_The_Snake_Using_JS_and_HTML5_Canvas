@@ -3,3 +3,4 @@
 ## Deployment
 
 * App deployed on Netlify : 
+https://snake-in-js-html-canvas.netlify.app/
