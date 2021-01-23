@@ -1,0 +1,18 @@
+h1 {
+  background-color: #032b7a;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+footer {
+  background-color: #032b7a;
+  color: white;
+  margin-top: 5%;
+  padding: 20px;
+  text-align: center;
+}
+
+.copyr {
+  font-size: 0.8em;
+}
