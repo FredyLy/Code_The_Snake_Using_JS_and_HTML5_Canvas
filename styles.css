@@ -16,3 +16,9 @@ footer {
 .copyr {
   font-size: 0.8em;
 }
+
+#snake {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
